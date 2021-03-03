@@ -1,3 +1,3 @@
 module.exports = {
-  port: 3000,
+  port: "the port you want to run the api on.",
 };
