@@ -22,5 +22,4 @@ Please look below for the steps to set this up.
 | GET             | `/joke`   | none               | Displays a random joke.                        |
 | GET             | `/base64` | type, text         | Encodes and decodes text to and from base64.   |
 
-
 ### If you need any help, you can DM me on Discord (FC#5104) for help.
