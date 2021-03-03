@@ -16,10 +16,12 @@ Please look below for the setps to set this up.
 
 ### List of endpoints:
 
-| Type of Request | Endpoints | Required Paramters | Description |
-| GET | ------------- | ------------------ | --------------------------------------------------- |
-| GET | `/quote` | none | Displays a random quote along with its author. |
-| GET | `/joke` | none | Displays a random joke. |
-| GET | `/base64` | type, text | Encodes and decodes text to and from base64. |
+
+| Type of Request | Endpoints | Required Paramters | Description                                         |
+| --------------- | --------- | ------------------ | --------------------------------------------------- |
+| GET             | `/quote`  | none               | Displays a random quote along with its author.      |
+| GET             | `/joke`   | none               | Displays a random joke.                             |
+| GET             | `/base64` | type, text         | Encodes and decodes text to and from base64.        |
+----------------------------------------------------------------------------------------------------------
 
 ### If you need any help, you can DM me on Discord (FC#5104) for help.
