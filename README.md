@@ -1,2 +1,3 @@
 # API Template
- An api template showing how an API works.
+
+An api template showing how an API works.
