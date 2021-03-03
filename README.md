@@ -9,7 +9,6 @@ Please look below for the setps to set this up.
 2) Edit the `port` with the port you want to run the API on.
 </details>
 
-<details>
 <summary>Starting the API</summary>
 1) After you're done with editing the config, save the file and run `npm i` in your terminal.
 2) This'll install all the packages the API uses.
