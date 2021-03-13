@@ -1,0 +1,31 @@
+{
+  "name": "api-template",
+  "version": "1.0.0",
+  "description": "An API template which shows how an API works. Uses express.",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FC5570/API-Template.git"
+  },
+  "keywords": [
+    "js",
+    "api",
+    "template",
+    "javascript",
+    "api-template"
+  ],
+  "author": "FC5570",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FC5570/API-Template/issues"
+  },
+  "homepage": "https://github.com/FC5570/API-Template#readme"
+}
